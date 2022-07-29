@@ -8,6 +8,7 @@ public class Turma {
 	private int ano;
 	
 	ArrayList<Aluno> alunos;
+	ArrayList<Professor> professores;
 
 	public void addAluno() {
 
